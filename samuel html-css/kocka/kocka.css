@@ -1,0 +1,57 @@
+body {
+  animation: bg-animation 4s 2s infinite;
+}
+div {
+  width: 150px;
+  height: 150px;
+  top: 0px;
+  left: 0px;
+  background-color: black;
+  position: absolute;
+  animation: move 4s 2s infinite;
+  border-radius: 5px;
+}
+@keyframes move {
+  0% {
+    background-color: black;
+    left: 0px;
+    top: 0px;
+  }
+  25% {
+    background-color: white;
+    left: 300px;
+    top: 0px;
+  }
+  50% {
+    background-color: black;
+    left: 300px;
+    top: 300px;
+  }
+  75% {
+    background-color: white;
+    left: 0px;
+    top: 300px;
+  }
+  100% {
+    background-color: black;
+    left: 0px;
+    top: 0px;
+  }
+}
+@keyframes bg-animation {
+  0% {
+    background-color: white;
+  }
+  25% {
+    background-color: black;
+  }
+  50% {
+    background-color: white;
+  }
+  75% {
+    background-color: black;
+  }
+  100% {
+    background-color: white;
+  }
+}

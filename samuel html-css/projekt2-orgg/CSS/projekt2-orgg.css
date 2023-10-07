@@ -1,0 +1,56 @@
+@keyframes bg-animation {
+  0% {
+    background-position: left;
+  }
+  50% {
+    background-position: right;
+  }
+  100% {
+    background-position: left;
+  }
+}
+body {
+  font-family: basic-sans, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.125em;
+  line-height: 1.6;
+  color: #333;
+  background: #ddd;
+  background-size: 300%;
+  background-image: linear-gradient(45deg, #00ff00, #0fd971, #00ffbb, #00ffe1, #00a2ff);
+  animation: bg-animation 25s infinite;
+  overflow: hidden;
+}
+
+.content {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90vw;
+  height: 40vw;
+  padding: 0.5vw;
+  box-shadow: 0 0 2em whitesmoke;
+  border-radius: 15px;
+}
+
+.title {
+  margin: 0 0 30px 0;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 10rem;
+  line-height: 0.8;
+  background-image: linear-gradient(45deg, #00ff00, #0fd971, #00ffbb, #00ffe1, #00a2ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-size: 300%;
+  transition: background-position 1s;
+}
+
+.title:hover {
+  background-position: right;
+}/*# sourceMappingURL=projekt2-orgg.css.map */

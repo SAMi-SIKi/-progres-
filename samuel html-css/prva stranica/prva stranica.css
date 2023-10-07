@@ -1,0 +1,18 @@
+a {
+  font-size: 150px;
+  text-align: center;
+  margin-right: 10px;
+}
+img.prije {
+  width: 150px;
+  border-radius: 35px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 1.5cqmax;
+}
+img.poslije {
+  width: 150px;
+  border-radius: 35px;
+  position: absolute;
+  top: 35px;
+}
