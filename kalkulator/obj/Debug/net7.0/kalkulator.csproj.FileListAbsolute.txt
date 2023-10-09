@@ -1,0 +1,30 @@
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.csproj.AssemblyReference.cache
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.AssemblyInfo.cs
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.exe
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.deps.json
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.runtimeconfig.json
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.dll
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.pdb
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.dll
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\refint\kalkulator.dll
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.pdb
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.genruntimeconfig.cache
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\ref\kalkulator.dll
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.exe
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.deps.json
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.runtimeconfig.json
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.dll
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\bin\Debug\net7.0\kalkulator.pdb
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.csproj.AssemblyReference.cache
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.AssemblyInfoInputs.cache
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.AssemblyInfo.cs
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.csproj.CoreCompileInputs.cache
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.dll
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\refint\kalkulator.dll
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.pdb
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\kalkulator.genruntimeconfig.cache
+D:\desktop 9-2020 7-2023\modovi\c#_samuel\kalkulator\obj\Debug\net7.0\ref\kalkulator.dll

@@ -1,0 +1,5 @@
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\login\obj\Debug\net7.0\login.csproj.AssemblyReference.cache
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\login\obj\Debug\net7.0\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\login\obj\Debug\net7.0\login.AssemblyInfoInputs.cache
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\login\obj\Debug\net7.0\login.AssemblyInfo.cs
+C:\Users\Ekonom\Desktop\modovi\c#_samuel\login\obj\Debug\net7.0\login.csproj.CoreCompileInputs.cache
